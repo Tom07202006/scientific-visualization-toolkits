@@ -19,7 +19,7 @@ A Python toolkit for generating publication-quality scientific visualizations. O
   * **🎨 Journal-Ready Themes:** Preset color palettes and styles for Nature, Science, and Cell.  
     **期刊级主题：** 预设 Nature, Science, Cell 等顶级期刊的配色方案与样式。
   * **📐 High Resolution:** Supports 800+ DPI export and vector formats including `.pdf`
-    **高分辨率：** 默认支持 800+ DPI 导出，支持 `.pdf`, `.svg`, `.eps` 等矢量格式。
+    **高分辨率：** 默认支持 800+ DPI 导出，支持 `.pdf`矢量格式。
   * **🐍 Ease of Use:** Seamless integration with Pandas and NumPy; generate plots in just a few lines of code.  
     **易于使用：** 完美兼容 Pandas 和 NumPy 数据格式，仅需几行代码即可出图。
   * **🤖 AI-Assisted:** Developed with the assistance of AI, ensuring clean code and modern implementation.  
